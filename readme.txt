@@ -9,4 +9,6 @@ master a. and dev a.
 Fast forward-- dev
 
 
-Bug -- stash
+Bug -- stash - new
+
+new test
