@@ -14,3 +14,5 @@ Bug -- stash - new
 new test
 
 github changed 
+
+git MINGW64 changed
