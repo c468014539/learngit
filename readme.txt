@@ -5,3 +5,5 @@ Git tracks changes of files.
 
 Createing a new branch is quick.
 master a. and dev a.
+
+Fast forward-- dev
