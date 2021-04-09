@@ -12,3 +12,5 @@ Fast forward-- dev
 Bug -- stash - new
 
 new test
+
+github changed 
